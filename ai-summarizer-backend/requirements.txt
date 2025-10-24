@@ -1,0 +1,13 @@
+fastapi 
+uvicorn 
+sqlalchemy 
+psycopg2-binary 
+python-dotenv 
+bcrypt 
+python-jose 
+pydantic 
+openai
+google-generativeai
+passlib[bcrypt]==1.7.4
+pydantic[email]
+bcrypt==3.2.2
